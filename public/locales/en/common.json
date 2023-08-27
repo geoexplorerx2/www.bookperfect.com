@@ -1,0 +1,274 @@
+{
+   "liveas": "Live as if",
+   "BOOK_PERFECT": "Book Perfect",
+   "TRAVEL_PERFECT": "TRAVEL PERFECT",
+   "EXPLORE_THE_WORLD": "Explore the world",
+   "NEW": "New",
+   "FIND_YOUR_TRIP": "Find your trip",
+
+   "NAV_ITEMS":{
+      "TRIPDESIGNER": "TripDesigner",
+      "FLIGHTS_&_MORE": "Flights & More",
+      "HOTELS": "Hotels",
+      "FLIGHTS_+_HOTELS":"Flights + Hotels",
+      "ACTIVITIES": "Activities",
+      "TRANSFERS": "Transfers",
+      "PACKAGES": "Packages",
+      "RENT_A_CAR": "Rent a car",
+      "MORE": "More",
+      "TRAVEL_GUIDE": "Travel guide",
+      "BLOG": "Blog"
+
+   },
+
+
+   "SEARCH_TABS" : {
+      "TRIP_DESIGNER": "Trip Designer",
+      "FLIGHTS": "Flights",
+      "HOTEL": "Hotel",
+      "ACTIVITIES": "Activities",
+      "PACKAGES": "Packages",
+      "TRANSFERS": "Transfers",
+      "RENT_A_CAR": "Rent a car",
+      "FLIGHTS_+_HOTELS": "Flights + Hotels",
+      "HOTELS": "Hotels",
+      "FLIGHTS_&_MORE":"Flights & More"
+
+   },
+   
+   "EXCLUSIVE_OFFERS_TABS": {
+      "FLIGHTS_&_MORE": "Flights & More",
+      "HOLIDAY": "Holiday",
+      "BEST_OFFERS": "Best Offers",
+      "RECOMMENDED": "Recommended",
+      "ROMANTIC":"Romantic",
+      "HONEYMOON":"Honeymoon",
+      "STOPOVER":"Stopover",
+      "CRUISES":"Cruises",
+      "SHOPPING":"Shopping",
+      "HOTELS": "Hotels",
+      "HOTEL": "Hotel",
+      "FLIGHTS_+_HOTELS": "Flights + Hotels",
+      "ACTIVITIES": "Activities",
+      "PACKAGES": "Packages",
+      "TRANSFERS": "Transfers",
+      "RENT_A_CAR": "Rent a car",
+      "VIEW_ALL_OFFERS": "View all offers"
+
+   },
+
+   "TRIP_DESIGNER_SEARCH_FORM": {
+      "START_DATE": "Start Date",
+      "SELECT_DATE": "select date"  
+   },
+
+   "GUESTS_INPUT": {
+      "TRAVELLERS": "Travellers",
+      "ROOMS": "Rooms",
+      "ADULTS": "Adults"
+
+   },
+
+   "TRIP_IDEAS":{
+      "MORE_IDEAS":"More Ideas",
+      "BEST_OFFERS": "Best Offers",
+      "ROMANTIC":"Romantic",
+      "HONEYMOON":"Honeymoon",
+      "STOPOVER ":"Stopover",
+      "STOPOVER_":"Stopover",
+      "CRUISES":"Cruises",
+      "SHOPPING":"Shopping",
+      "RECOMMENDED": "Recommended",
+      "TRANSPORTS": "Transports",
+      "DESTINATION": "Destination",
+      "NIGHTS": "Nights",
+      "PARIS":"Paris",
+      "NEW_YORK":"New York",
+      "TOKYO":"Tokyo",
+      "LONDON":"London",
+      "ROME":"Rome",
+      "ISTANBUL":"Istanbul",
+      "MADRID":"Madrid",
+      "BARCELONA":"Barcelona",
+      "LISBON":"Lisbon",
+      "MORE": "More",
+      "HOTELS":"Hotels",
+      "TURKEY":"Turkey",
+      "BEACH":"Beach",
+      "ADVENTURE":"Adventure",
+      "GASTRONOMY":"Turkey",
+      "HISTORY":"History",
+      "FAMILY":"Family",
+      "WINTER":"Winter",
+      "ALL": "All",
+      "HEALTH": "Health",
+      "BEACH_HOLIDAYS": "Beach Holidays"
+      
+   },
+
+   "TRAVEL_NEWS": {
+      "TRAVEL_NEWS": "Travel News",
+      "VIEW_ALL_NEWS": "View All News"
+   },
+
+   "POPULAR_DESTINATIONS": {
+      "ALL_DESTNATIONS":"All Destinations",
+      "TRAVEL_DEALS": "Travel deals",
+      "TRAVEL_GUIDE": "Travel guide",
+      "TURKEY":"Turkey",
+      "RECOMMENDED":"Recommended",
+      "ITALY":"Italy",
+      "FRANCE":"France",
+      "INDIA":"India",
+      "CANADA":"Canada",
+      "CHINA":"China",
+      "PARIS":"Paris",
+      "NEW_YORK":"New York",
+      "TOKYO":"Tokyo",
+      "LONDON":"London",
+      "ROME":"Rome",
+      "ISTANBUL":"Istanbul",
+      "MADRID":"Madrid",
+      "BARCELONA":"Barcelona",
+      "LISBON":"Lisbon"
+   },
+   "CHEAP_FLIGHTS": {
+      "MORE_FLIGHTS": "More Flights",
+      "ECONOMY": "Economy",
+      "RETURN_FROM":"Return form",
+      "TRAVEL_BETWEEN": "Travel between",
+      "CHECK": "CHECK"
+   },
+
+   "BOOK_FLIGHT_MODAL":{
+      "BOOK_YOUR_FLIGHTS_ONLINE": "Book your flights online",
+      "ECONOMY_RETURN_FROM":"Economy return from",
+      "DEAL_NUMBER": "Deal number",
+      "TRAVEL_BETWEEN": "Travel between",
+      "FOR_THIS_DEAL":"For this deal"
+   },
+
+   "HOTELS_CARD": {
+      "EXCEPTIONAL": "Exceptional",
+      "RESERVE_NOW": "Reserve NOW",
+      "SINCE":"Since"
+   },
+
+   "TRAVEL_BLOG":{
+      "SEE_MORE_BLOGS": "See More Blogs"
+   },
+
+   "FLIGHT_SEARCH_FORM": {
+      "ONE_WAY": "One Way",
+      "ROUND_TRIP": "Round Trip",
+      "MULTI_STOP": "Multi Stop"
+   },
+
+   "CHARACTERISTICS": {
+      "FLIGHT_IN_GOOD_HEALTH" :"Flight in goods health",
+      "FLEXIBLE_BOOKING" :"Flexible bookings",
+      "ENTRY_RESTRICTIONS_BY_COUNTRY" :"Entry Restrictions by Countrys",
+      "TRUSTED_BY_TRAVELLERS" :"Trusted by travellerss"
+   },
+
+   "MEMBERSHIP": {
+      "LET'S_DO_THIS": "Let's do this",
+      "ENTER_YOUR_EMAIL_ADDRESS": "Enter your e-mail address"
+   },
+
+   "HOTELS_SEARCH_FORM": {
+      "WHERE_TO_?": "Where To ?",
+      "CHECK_IN": "Check-in",
+      "CHECK_OUT": "Check-out"
+   },
+   
+   "TRANSFERS_SEARCH_FORM":{
+      "TIME": "Time"
+   },
+   "TRANSFER_DEALS": {
+      "TRANSFER_PRICES_FROM": "Transfer prices from"
+   },
+
+
+   "CAR_RENTAL":{
+      "MORE_CAR_RENTAL": "More Car Rental",
+      "GENERAL":"General",
+      "FROM":"From",
+      "BOOK_THIS_VEHICLE": "Book This Vehicle"
+   },
+
+   "PACKAGES_SEARCH_FORM": {
+      "COUNTRY":"Country",
+      "WHEN": "When",
+      "NUMBER_OF_NIGHTS": "Number of Nights",
+      "THEME": "Theme"
+   },
+
+   "CAR_RENTAL_SEARCH_FORM": {
+      "PICKUP":"Pickup",
+      "SAME_DROP-OFF":"Same Drop-off",
+      "DROPOFF":"Dropoff",
+      "DRIVER_AGED_BETWEEN_30-65_?":"Driver aged between 30-65 ?",
+      "TIME": "Time"
+   },
+
+   "BUNDLE_AND_SAVE": {
+      "CAR": "Car",
+      "FLIGHT": "Flight",
+      "HOTEL": "Hotel",
+      "BUNDLE": "Bundle"
+   },
+
+
+   "TAXONOM_HEADER": {
+      "EXPLORE_THE_WORLD": "Explore the world"
+   },
+
+   "TRAVEL_GUIDE":{
+   "TRAVEL_GUIDE": "Travel guide",
+   "BUNDLE_YOUR_FLIGHTS_+_STAY_TOGETHER_AND_SAVE!_PLUS_NO_ONLINE_BOOKING_FEES!":"Bundle your flights + stay together and save! plus no online booking fees!",
+   "NEED_HELP_PLANNING?_CHECK_OUT_OUR_TRAVEL_GUIDES":"Need Help Planing? Check out our travel guides",
+   "OVERVIEW":"Overview",
+   "THINGS_TO_KNOW":"Things to know",
+   "BEST_TIME_TO_VISIT": "Best time to visit",
+   "GETTING_AROUND":"Getting around",
+   "WHERE_TO_STAY": "Where to stay",
+   "BEST_HOTELS":"Best hotels",
+   "WHAT_TO_EAT": "What to eat",
+   "BEST_RESTAURANTS":"Best restaurants",
+   "TOP_ATTRACTIONS_":"Top attractions",
+   "SHOPPING":"Shopping",
+   "LET'S_LOOK_AT_THE":" Let's look at the",
+   "TRAVEL_DEALS!":"Travel Deals!",
+   "LET'S_GO":"Let's Go!",
+   "BEST_RESTAURANTS_": "Best restaurants"
+   },
+
+   "GUIDE_CONTENT_COMP": {
+      "MORE_ISTANBUL": "More Istanbul",
+      "FOR_LESS": "for less",
+      "VIEW_ATTRACTIONS": "View Attractions",
+      "BUY_&_SAVE":"Buy & Save"
+   },
+
+   "FROM":"From",
+   "TO": "To",
+   "START_DATE": "Start Date",
+   "RETURN_DATE": "Return Date",
+   "DATE": "Date",
+   "HOTEL":"HOTEL",
+   "MORE": "more",
+   "MORE_INFO": "More Info",
+   "NATIONALITY": "Nationality",
+   "BY CLICKING 'SEARCH', I AGREE TO THE ?":"By clicking 'Search', I agree to the ?",
+   "WHERE": "Where",
+   "SELECT_DATE":"Select date",
+   "VALID_TILL": "Valid Till",
+   "REVIEWS":"Reviews",
+   "GENERAL": "General",
+   "VIEW_OPTIONS": "VIEW OPTIONS",
+   "SEE_ALL_TRANSFERS": "See All Transfers",
+   "BEST_BRANDS_BEST_PRICES_!": "Best brands, Best prices !",
+   "EXPLORE_MORE": "Explore More",
+   "SEE_ALL_DESTINATIONS":"See all destinations"
+}

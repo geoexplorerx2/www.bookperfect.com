@@ -1,0 +1,1 @@
+export const ARPANU_MEDICAL: string = 'https://www.arpanumedical.com';

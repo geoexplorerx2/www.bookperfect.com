@@ -1,0 +1,273 @@
+{
+   "liveas": "gibi yaşa",
+   "BOOK_PERFECT": "Kitap Mükemmel",
+   "TRAVEL_PERFECT": "MÜKEMMEL SEYAHAT",
+   "EXPLORE_THE_WORLD": "Dünyayı keşfet",
+   "NEW": "Yeni",
+   "FIND_YOUR_TRIP": "Seyahatinizi bulun",
+
+   "NAV_ITEMS":{
+      "TRIPDESIGNER": "Gezi Tasarımcısı",
+      "FLIGHTS_&_MORE": "Uçuşlar ve daha fazlası",
+      "Oteller": "Oteller",
+      "FLIGHTS_+_HOTELS":"Uçuşlar + Oteller",
+      "ACTIVITIES": "Aktiviteler",
+      "TRANSFERS": "Transferler",
+      "PACKAGES": "Paketler",
+      "RENT_A_CAR": "Araba kiralamak",
+      "MORE": "Daha",
+      "TRAVEL_GUIDE": "Gezi Rehberi",
+      "BLOG": "Blog"
+
+   },
+
+
+   "SEARCH_TABS" : {
+      "TRIP_DESIGNER": "Gezi Tasarımcısı",
+      "FLIGHTS": "Uçuşlar",
+      "HOTEL": "Otel",
+      "ACTIVITIES": "Aktiviteler",
+      "PACKAGES": "Paketler",
+      "TRANSFERS": "Transferler",
+      "RENT_A_CAR": "Araba kiralamak",
+      "FLIGHTS_+_HOTELS": "Uçuşlar + Oteller",
+      "FLIGHTS_&_MORE":"Uçuşlar ve daha fazlası"
+
+   },
+   
+   "EXCLUSIVE_OFFERS_TABS": {
+      "FLIGHTS_&_MORE": "Uçuşlar ve daha fazlası",
+      "HOLIDAY": "Tatil",
+      "BEST_OFFERS": "En İyi Teklifler",
+      "RECOMMENDED": "Önerilen",
+      "ROMANTIC":"Romantik",
+      "HONEYMOON":"Balayı",
+      "STOPOVER":"Mola",
+      "CRUISES":"Yolculuklar",
+      "SHOPPING":"Alışveriş yapmak",
+      "HOTELS": "Oteller",
+      "HOTEL": "Otel",
+      "FLIGHTS_+_HOTELS": "Uçuşlar + Oteller",
+      "ACTIVITIES": "Aktiviteler",
+      "PACKAGES": "Paketler",
+      "TRANSFERS": "Transferler",
+      "RENT_A_CAR": "Araba kiralamak",
+      "VIEW_ALL_OFFERS": "Tüm teklifleri görüntüle"
+
+   },
+
+   "TRIP_DESIGNER_SEARCH_FORM": {
+      "START_DATE": "Start Date",
+      "SELECT_DATE": "Tarih seç"  
+   },
+
+   "GUESTS_INPUT": {
+      "TRAVELLERS": "Gezginler",
+      "ROOMS": "Odalar",
+      "ADULTS": "Yetişkinler"
+
+   },
+
+   "TRIP_IDEAS":{
+      "MORE_IDEAS":"Daha fazla fikir",
+      "BEST_OFFERS": "En İyi Teklifler",
+      "ROMANTIC":"Romantik",
+      "HONEYMOON":"Balayı",
+      "STOPOVER ":"Mola",
+      "STOPOVER_":"Mola",
+      "CRUISES":"Yolculuklar",
+      "SHOPPING":"Alışveriş yapmak",
+      "RECOMMENDED": "Önerilen",
+      "TRANSPORTS": "Taşımalar",
+      "DESTINATION": "Hedef",
+      "NIGHTS": "Geceler",
+      "PARIS":"Paris",
+      "NEW_YORK":"New York",
+      "TOKYO":"Tokyo",
+      "LONDON":"Londra",
+      "ROME":"Roma",
+      "ISTANBUL":"Istanbul",
+      "MADRID":"Madrid",
+      "BARCELONA":"Barselona",
+      "LISBON":"Lizbon",
+      "MORE": "Daha",
+      "Oteller":"Oteller",
+      "TURKEY":"Türkiye",
+      "BEACH":"Sahil",
+      "ADVENTURE":"Macera",
+      "GASTRONOMY":"Gastronomi",
+      "HISTORY":"Tarih",
+      "FAMILY":"Aile",
+      "WINTER":"Kış",
+      "ALL": "Herşey",
+      "HEALTH": "Sağlık",
+      "BEACH_HOLIDAYS": "Sahil Tatilleri"
+      
+   },
+
+   "TRAVEL_NEWS": {
+      "TRAVEL_NEWS": "Seyahat Haberleri",
+      "VIEW_ALL_NEWS": "Tüm Haberleri Görüntüle"
+   },
+
+   "POPULAR_DESTINATIONS": {
+      "ALL_DESTNATIONS":"Tüm Destinasyonlar",
+      "TRAVEL_DEALS": "Seyahat fırsatları",
+      "TRAVEL_GUIDE": "Gezi Rehberi",
+      "TURKEY":"Türkiye",
+      "RECOMMENDED":"Önerilen",
+      "ITALY":"İtalya",
+      "FRANCE":"Fransa",
+      "INDIA":"Hindistan",
+      "CANADA":"Canada",
+      "CHINA":"Çin",
+      "PARIS":"Paris",
+      "NEW_YORK":"New York",
+      "TOKYO":"Tokyo",
+      "LONDON":"Londra",
+      "ROME":"Roma",
+      "ISTANBUL":"Istanbul",
+      "MADRID":"Madrid",
+      "BARCELONA":"Barselona",
+      "LISBON":"Lizbon"
+   },
+   "CHEAP_FLIGHTS": {
+      "MORE_FLIGHTS": "Daha Fazla Uçuşl",
+      "ECONOMY": "Ekonomi",
+      "RETURN_FROM":"dönmek",
+      "TRAVEL_BETWEEN": "Arasında seyahat et",
+      "CHECK": "KONTROL"
+   },
+
+   "BOOK_FLIGHT_MODAL":{
+      "BOOK_YOUR_FLIGHTS_ONLINE": "Uçuş rezervasyonunuzu çevrimiçi yapın",
+      "ECONOMY_RETURN_FROM":"Ekonomi getirisi",
+      "DEAL_NUMBER": "Anlaşma numarası",
+      "TRAVEL_BETWEEN": "Arasında seyahat et",
+      "FOR_THIS_DEAL":"Bu anlaşma için"
+   },
+
+   "Oteller_CARD": {
+      "EXCEPTIONAL": "Olağanüstü",
+      "RESERVE_NOW": "Şimdi rezerve edin",
+      "SINCE":"Dan beri"
+   },
+
+   "TRAVEL_BLOG":{
+      "SEE_MORE_BLOGS": "Daha Fazla Blog Gör"
+   },
+
+   "FLIGHT_SEARCH_FORM": {
+      "ONE_WAY": "Tek Yön",
+      "ROUND_TRIP": "Gidiş",
+      "MULTI_STOP": "Çoklu Durdurma"
+   },
+
+   "CHARACTERISTICS": {
+      "FLIGHT_IN_GOOD_HEALTH" :"İyi durumda uçuş",
+      "FLEXIBLE_BOOKING" :"Esnek rezervasyonlar",
+      "ENTRY_RESTRICTIONS_BY_COUNTRY" :"Ülkelere Göre Giriş Kısıtlamaları",
+      "TRUSTED_BY_TRAVELLERS" :"Gezginler tarafından güvenilen"
+   },
+
+   "MEMBERSHIP": {
+      "LET'S_DO_THIS": "Bunu yapalım",
+      "ENTER_YOUR_EMAIL_ADDRESS": "E-posta adresinizi giriniz"
+   },
+
+   "Hotels_SEARCH_FORM": {
+      "WHERE_TO_?": "Nereye ?",
+      "CHECK_IN": "Giriş",
+      "CHECK_OUT": "Çıkış yapmak"
+   },
+   
+   "TRANSFERS_SEARCH_FORM":{
+      "TIME": "Zaman"
+   },
+   "TRANSFER_DEALS": {
+      "TRANSFER_PRICES_FROM": "Transfer fiyatları"
+   },
+
+
+   "CAR_RENTAL":{
+      "MORE_CAR_RENTAL": "Daha Fazla Araba Kiralama",
+      "GENERAL":"Genel",
+      "FROM":"İtibaren",
+      "BOOK_THIS_VEHICLE": "Bu Aracı Ayırt"
+   },
+
+   "PACKAGES_SEARCH_FORM": {
+      "COUNTRY":"Ülke",
+      "WHEN": "Ne zaman",
+      "NUMBER_OF_NIGHTS": "Gece sayısı",
+      "THEME": "Tema"
+   },
+
+   "CAR_RENTAL_SEARCH_FORM": {
+      "PICKUP":"Toplamak",
+      "SAME_DROP-OFF":"Aynı Bırakma",
+      "DROPOFF":"Bırakmak",
+      "DRIVER_AGED_BETWEEN_30-65_?":"30-65 yaş arası sürücü ?",
+      "TIME": "Zaman"
+   },
+
+   "BUNDLE_AND_SAVE": {
+      "CAR": "Araba",
+      "FLIGHT": "Uçuş",
+      "HOTEL": "Otel",
+      "BUNDLE": "Paket"
+   },
+
+
+   "TAXONOM_HEADER": {
+      "EXPLORE_THE_WORLD": "Dünyayı keşfet"
+   },
+
+   "TRAVEL_GUIDE":{
+   "TRAVEL_GUIDE": "Gezi Rehberi",
+   "BUNDLE_YOUR_FLIGHTS_+_STAY_TOGETHER_AND_SAVE!_PLUS_NO_ONLINE_BOOKING_FEES!":"Uçuşlarınızı paketleyin + birlikte kalın ve tasarruf edin! artı çevrimiçi rezervasyon ücreti yok!",
+   "NEED_HELP_PLANNING?_CHECK_OUT_OUR_TRAVEL_GUIDES":"Yardım Planlamaya mı ihtiyacınız var? Seyahat rehberlerimize göz atın",
+   "OVERVIEW":"Genel bakış",
+   "THINGS_TO_KNOW":"Bilinecek şeyler",
+   "BEST_TIME_TO_VISIT": "Ziyaret etmek için en iyi zaman",
+   "GETTING_AROUND":"Dolaşmak",
+   "WHERE_TO_STAY": "Nerede kalınır",
+   "BEST_HOTELS":"En iyi oteller",
+   "WHAT_TO_EAT": "Ne yemeli",
+   "BEST_RESTAURANTS":"En iyi restoranlar",
+   "TOP_ATTRACTIONS_":"En gözde mekanlar",
+   "SHOPPING":"Alışveriş yapmak",
+   "LET'S_LOOK_AT_THE":" Bir bakalım",
+   "TRAVEL_DEALS!":"Seyahat Fırsatları!",
+   "LET'S_GO":"Hadi gidelim!",
+   "BEST_RESTAURANTS_": "En iyi restoranlar"
+   },
+
+   "GUIDE_CONTENT_COMP": {
+      "MORE_ISTANBUL": "Daha Fazla İstanbul",
+      "FOR_LESS": "daha ucuza",
+      "VIEW_ATTRACTIONS": "Gezilecek Yerleri Görüntüle",
+      "BUY_&_SAVE":"Satın Al ve Kaydet"
+   },
+
+   "FROM":"İtibaren",
+   "TO": "İle",
+   "START_DATE": "Başlangıç tarihi",
+   "RETURN_DATE": "Dönüş tarihi",
+   "DATE": "Tarih",
+   "HOTEL":"OTEL",
+   "MORE": "daha",
+   "MORE_INFO": "Daha fazla bilgi",
+   "NATIONALITY": "Milliyet",
+   "BY CLICKING 'SEARCH', I AGREE TO THE ?":"'Ara'yı tıklayarak şunu kabul ediyorum?",
+   "WHERE": "Nereye",
+   "SELECT_DATE":"Tarih seç",
+   "VALID_TILL": "Kadar geçerli",
+   "REVIEWS":"Yorumlar",
+   "GENERAL": "Genel",
+   "VIEW_OPTIONS": "SEÇENEKLERİ GÖR",
+   "SEE_ALL_TRANSFERS": "Tüm Transferleri Gör",
+   "BEST_BRANDS_BEST_PRICES_!": "En iyi markalar, En iyi fiyatlar!",
+   "EXPLORE_MORE": "Explore More",
+   "SEE_ALL_DESTINATIONS":"Tüm varış noktalarını görün"
+}

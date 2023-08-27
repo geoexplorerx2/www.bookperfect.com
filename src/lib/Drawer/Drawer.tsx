@@ -1,0 +1,1 @@
+export {Drawer as UiDrawer} from '@mantine/core'

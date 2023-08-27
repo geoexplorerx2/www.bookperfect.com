@@ -1,0 +1,689 @@
+.root {
+  overflow: hidden;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.hiddenScrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.hiddenScrollbar {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+.z-max {
+  z-index: 9999;
+}
+
+//
+.will-change-transform {
+  will-change: transform;
+}
+.will-change-top {
+  will-change: top;
+}
+//
+
+.SectionClientSay .glide__bullet--active {
+  @apply bg-neutral-700;
+}
+.GallerySlider .glide__bullet--active {
+  @apply bg-white w-2 h-2;
+}
+
+//
+.card-title {
+  @apply transition-colors  hover:text-primary-900 dark:hover:text-primary-300 duration-75;
+}
+
+//
+.nc-PostCardCommentBtn,
+.nc-PostCardLikeAction,
+.nc-CommentCardLikeReply > button {
+  &:hover {
+    span {
+      color: inherit;
+    }
+  }
+}
+
+//
+.nc-box-has-hover {
+  @apply bg-white rounded-3xl border border-neutral-200 border-opacity-70 hover:bg-neutral-50 hover:shadow-xl hover:border-transparent transition-shadow;
+}
+
+.nc-dark-box-bg-has-hover {
+  @apply dark:bg-neutral-800 dark:bg-opacity-30  dark:border dark:border-neutral-700 dark:hover:bg-neutral-800 dark:hover:shadow-2xl;
+}
+
+.nc-dark-box-bg {
+  @apply dark:bg-neutral-800 dark:bg-opacity-30  dark:border dark:border-neutral-700 dark:shadow-2xl;
+}
+
+//
+.nc-origin-100 {
+  transform-origin: 100% 50% 0px;
+}
+.nc-origin-50 {
+  transform-origin: 50% 50% 0px;
+}
+
+// hero
+.hero-field-padding {
+  @apply  px-4  pt-1 md:px-7 xl:px-10;
+}
+
+// .hero-field-focused {
+//   @apply shadow-2xl rounded-full dark:bg-white/5;
+// }
+
+.nc-flex-1 {
+  flex: 1 0 0%;
+}
+
+.nc-flex-1\.5 {
+  flex: 1.5 0 0%;
+}
+.nc-flex-1\.5-auto {
+  flex: 1.5 0 auto;
+}
+
+.nc-flex-2 {
+  flex: 2 0 0%;
+}
+
+.nc-flex-2-auto {
+  flex: 2 0 auto;
+}
+
+.nc-flex-2\.5 {
+  flex: 2.5 0 0%;
+}
+
+@screen lg {
+  .lg\:nc-flex-1\.5 {
+    flex: 1.5 0 0%;
+  }
+  .lg\:nc-flex-1\.5-auto {
+    flex: 1.5 0 auto;
+  }
+
+  .lg\:nc-flex-2 {
+    flex: 2 0 0%;
+  }
+
+  .lg\:nc-flex-2-auto {
+    flex: 2 0 auto;
+  }
+
+  .lg\:nc-flex-2\.5 {
+    flex: 2.5 0 0%;
+  }
+}
+
+.nc-icon-field {
+  @apply w-5 h-5 lg:w-7 lg:h-7;
+}
+.nc-icon-field-2 {
+  @apply w-5 h-5 lg:w-8 lg:h-8;
+}
+//
+button.gm-control-active.gm-fullscreen-control {
+  @apply rounded-xl #{!important};
+}
+
+//
+.nc-FiveStartIconForRate {
+  svg:hover ~ svg {
+    @apply text-neutral-300;
+  }
+}
+
+// LISTING PAGE DETAIL
+.listingSection__wrap {
+  @apply w-full flex flex-col sm:rounded-2xl border-b sm:border-t sm:border-l sm:border-r border-neutral-200 dark:border-neutral-700 space-y-6 sm:space-y-8 pb-10 px-0 sm:p-4 xl:p-8;
+}
+
+// LISTING PAGE DETAIL
+.listingSectionSidebar__wrap {
+  @apply w-full flex flex-col rounded-2xl border-b border-t border-l border-r border-neutral-200 dark:border-neutral-700 space-y-6 sm:space-y-8 pb-10 p-2 sm:p-4 xl:p-8;
+}
+
+//
+input[type="time"]::-webkit-calendar-picker-indicator {
+  @apply dark:bg-neutral-500 rounded-md;
+}
+
+[type="button"] {
+  -webkit-appearance: none !important;
+}
+
+//
+.rc-slider-track {
+  @apply bg-primary-400;
+}
+.rc-slider-handle {
+  @apply border-primary-300;
+}
+
+//
+.nc-PropertyCardH {
+  .nc-BtnLikeIcon--liked {
+    @apply text-red-500 dark:text-red-500;
+  }
+}
+
+//
+.ncSectionLogos {
+  img {
+    @apply w-full;
+    max-width: 200px;
+  }
+}
+
+//
+.modalPhotos-single-gallery {
+  .glide__bullet--active {
+    @apply block;
+  }
+}
+
+.menuIsNew_lv1 {
+  > a::before {
+    content: "New!";
+    position: absolute;
+    top: -2px;
+    right: 0;
+    display: inline-block;
+    padding: 0 5px;
+    line-height: 15px;
+    border-radius: 4px;
+    background-color: #f35656;
+    color: #fff;
+    font-size: 10px;
+    font-weight: normal;
+  }
+}
+.menuIsNew {
+  > a::after {
+    content: "New!";
+    display: inline-block;
+    padding: 0 5px;
+    line-height: 15px;
+    border-radius: 4px;
+    background-color: #f35656;
+    color: #fff;
+    font-size: 10px;
+    margin-left: 6px;
+  }
+};
+
+.homepage_top_international_destination_section {
+  position: absolute;
+  width: 2374px;
+  height: 601px;
+  left: -250px;
+  top: 2279px;
+};
+.hero-head-search-dark{
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-image: url('../images/banner.png');
+    background-color: #000;
+    opacity: 95%;
+}
+
+.hero-head-search {
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-image: url('../images/banner.png');
+  background-color: #D4E8FC;
+  // margin-top: 20px
+};
+
+.hero-head-search-flights{
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-image: url('https://bookperfect.imgix.net/banner/flightsmorebanner.png')
+  // background-image: url('../images/flightbanner.png');
+  // margin-top: 20px
+};
+
+.hero-head-search-hotels{
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-image: url('https://bookperfect.imgix.net/banner/hotelsbanner.png')
+  // background-image: url('../images/hotelbanner.png');
+  // margin-top: 20px
+};
+
+.hero-head-search-flightshotels{
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-image: url('https://bookperfect.imgix.net/banner/flightshotelsbanner.png');
+  // background-image: url('../images/flighthotelbanner.png');
+  // margin-top: 20px
+};
+
+.hero-head-search-packages{
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-image: url('https://bookperfect.imgix.net/banner/packagesbanner.png')
+  // background-image: url('../images/packagesbanner.png')
+  // margin-top: 20px
+};
+
+.hero-head-search-tripdesigner{
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-image: url('https://bookperfect.imgix.net/banner/tripdesignerbannerss.png')
+  // background-image: url('../images/tripdesignerbanner.png');
+  // margin-top: 20px
+};
+
+.hero-head-search-offers{
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-image: url('../images/offersbanner.png');
+  // margin-top: 20px
+};
+
+.hero-head-travelnews{
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-image: url('https://bookperfect.imgix.net/banner/travelnewsbanner.png');
+  // margin-top: 20px
+};
+
+.search-card{
+  @media (max-width: 1598px){
+    margin-left: 298px;
+  }
+};
+
+.hero-head-travelguide{
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-image: url('../images/travelguide.png');
+  // margin-top: 20px
+};
+
+.hero-head-travelguide-europe{
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-image: url('../images/europebanner.png');
+  // background: linear-gradient(235.83deg, rgba(20, 35, 200, 0) 31.89%, rgba(2, 13, 137, 0.69) 76.21%);
+  // margin-top: 20px
+};
+
+.hero-head-search-rentacar{
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-image: url('https://bookperfect.imgix.net/banner/routingbanner.png')
+  // background-image: url('../images/routingbanner.png');
+  // background: linear-gradient(235.83deg, rgba(20, 35, 200, 0) 31.89%, rgba(2, 13, 137, 0.69) 76.21%);
+  // margin-top: 20px
+};
+
+.hero-head-search-routing{
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-image: url('https://bookperfect.imgix.net/banner/routingbanner.png')
+  // background-image: url('../images/routingbanner.png');
+  // background: linear-gradient(235.83deg, rgba(20, 35, 200, 0) 31.89%, rgba(2, 13, 137, 0.69) 76.21%);
+  // margin-top: 20px
+}
+
+.hero-head-search-transfers{
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-image: url('https://bookperfect.imgix.net/banner/transfersbanner.png')
+  // background-image: url('../images/transfersbanner.png');
+  // background: linear-gradient(235.83deg, rgba(20, 35, 200, 0) 31.89%, rgba(2, 13, 137, 0.69) 76.21%);
+  // margin-top: 20px
+};
+
+.sc-bg{
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-image: url('../images/worldmap.png');
+};
+
+.hero-head-search-activities{
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-image: url('https://bookperfect.imgix.net/banner/activitiesbanner.png');
+  // background-image: url('../images/activitiesbanner.png');
+  // background: linear-gradient(235.83deg, rgba(20, 35, 200, 0) 31.89%, rgba(2, 13, 137, 0.69) 76.21%);
+  // margin-top: 20px;
+  // filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+};
+
+.hero-head-my-profile{
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-image: url('../images/profilebanner.png');
+  // background: linear-gradient(235.83deg, rgba(20, 35, 200, 0) 31.89%, rgba(2, 13, 137, 0.69) 76.21%);
+  // margin-top: 20px;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  // opacity: 0.3;
+  // background: #3944B3;
+  // mix-blend-mode: normal;
+};
+
+.hero-head-support{
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-image: url('../images/supportbanner.png');
+};
+
+.hero-head-support-details{
+  background-color: #FFF9F9;
+};
+
+// loader
+.loader {
+	border-top-color: #d01d1d;
+	-webkit-animation: spinner 1.5s linear infinite;
+	animation: spinner 1.5s linear infinite;
+}
+
+@-webkit-keyframes spinner {
+	0% {
+		-webkit-transform: rotate(0deg);
+	}
+	100% {
+		-webkit-transform: rotate(360deg);
+	}
+}
+
+@keyframes spinner {
+	0% {
+		transform: rotate(0deg);
+	}
+	100% {
+		transform: rotate(360deg);
+	}
+}
+
+
+// mobile menu animation
+.unclick{
+	animation: mobileMenu 0.3s ease-out ;
+  transition: all ease-out 1s;
+  display: inherit;
+}
+.click {
+  display: none;
+}
+
+.unclick {
+  display: inherit;
+}
+
+
+@-webkit-keyframes mobileMenu {
+	0% {
+    opacity: 0;
+		-webkit-transform: rotate(-20deg);
+	}
+	100% {
+    opacity: 100;
+		-webkit-transform: rotate(0);
+	}
+}
+
+@keyframes mobileMenu {
+	0% {
+    opacity: 0;
+		transform: rotate(-20deg);
+	}
+	100% {
+    opacity: 100;
+		transform: rotate(0deg);
+	}
+}
+
+
+
+.invisible {
+ 
+  @apply hidden;
+
+  @media only screen and (min-width: 1510px) {
+    @apply inline-block
+  }
+}
+
+
+@media only screen and (max-width: 1024px) {
+  .guide_weather_widget  .widget-right{
+    width: 100% !important
+  }
+}
+@media only screen and (max-width: 768px) {
+  select,   
+textarea,   
+input[type="text"],   
+input[type="password"], 
+input[type="datetime"], 
+input[type="datetime-local"], 
+input[type="date"], 
+input[type="month"], 
+input[type="time"], 
+input[type="week"], 
+input[type="number"], 
+input[type="email"], 
+input[type="url"], 
+input[type="search"], 
+input[type="tel"], 
+input[name="date"],
+input[type="color"] {
+   font-size: 16px; 
+  }
+   
+}
+
+// aligning the chip buttons of the flights tab on the small screens
+.mantine-bhsibn{
+  flex-wrap: nowrap;
+}
+
+
+
+// Styles of the Radio Buttons (start)
+
+.custom-radio:after {
+  width: 14px;
+  height: 14px;
+  border-radius: 100%;
+  top: -1px;
+  left: 0px;
+  position: relative;
+  background-color: white;
+  content: '';
+  display: inline-block;
+  visibility: visible;
+  border: 2px solid #3842B2;
+}
+
+.custom-radio:checked:after {
+  width: 14px;
+  height: 14px;
+  border-radius: 100%;
+  top: -1px;
+  left: 0px;
+  position: relative;
+  background-color: #3842B2;
+  content: '';
+  display: inline-block;
+  visibility: visible;
+  border: 2px solid white;
+}
+
+// Styles of the Radio Buttons (end)
+
+
+// showing three dots on the second line on the tripideas section (start)
+.block-with-text {
+  overflow: hidden;
+  position: relative; 
+  line-height: 1.2em;
+  max-height: 3.6em; 
+  text-align: justify;  
+  margin-right: -1em;
+  padding-right: 1em;
+}
+/* create the ... */
+.block-with-text:before {
+  content: '...';
+  position: absolute;
+  right: 0;
+  bottom: 3px;
+}
+/* hide ... if we have text, which is less than or equal to max lines */
+.block-with-text:after {
+  content: '';
+  position: absolute;
+  right: 0;
+  width: 1em;
+  height: 1em;
+  margin-top: 0.2em;
+  background: transparent;
+}
+// showing three dots on the second line on the tripideas section (end)
+
+.header-gradient {
+  background: linear-gradient(235.83deg, rgba(20, 35, 200, 0) 20%, rgba(2, 13, 137, 0.69) 76.21%)
+}
+
+  .widget-right{
+    box-shadow: none !important;
+  }
+
+
+
+  // sidemenu on avuxi widget going behind the category buttons 
+.vx-map-with-scores-3__categories-box {
+  z-index: 400 !important;
+}
+
+// ticking animation for the promocode
+.check {
+  top: 22px;
+  left: 8px;
+  width: 15px;
+  position: absolute;
+  content: "";
+  height: 35px;
+  transform-origin: left top;
+  animation: check 0.8s ease;
+  border-top: 4px solid white;
+  border-right: 4px solid white;
+  transform: scaleX(-1) rotate(135deg) ;
+  
+}
+@keyframes check {
+  0% {
+      height: 0;
+      width: 0;
+      opacity: 1;
+  }
+
+  20% {
+      height: 0;
+      width: 15px;
+      opacity: 1;
+  }
+
+  40% {
+      height: 35px;
+      width: 15px;
+      opacity: 1;
+  }
+
+  100% {
+      height: 35px;
+      width: 15px;
+      opacity: 1;
+  }
+}
+
+// copied animation 
+.copied-bg {
+  animation: copy-promo-bg 0.5s ease;
+}
+
+
+@keyframes copy-promo-bg {
+  0%{
+    background-color: #F75847;
+  }
+  100%{
+    background-color: cyan;
+  }
+  
+}
+
+
+.copied-border {
+  animation: copy-promo-border 0.8s ease;
+}
+
+
+@keyframes copy-promo-border {
+  0%{
+    border-color: #F75847;
+    border-right-color: transparent;
+  }
+  100%{
+    border-color: cyan;
+    border-right-color: transparent;
+  }
+ 
+}
+
+
+// loading skeleton pulse animation 
+.loading-pulse {
+ 
+  background-image: -webkit-linear-gradient(90deg, #ececec -9px, #f4f4f4 35px, #ececec 80px);
+  background-image: -o-linear-gradient(90deg, #ececec -9px, #f4f4f4 35px, #ececec 80px);
+  background-image: linear-gradient(90deg, #ececec 0px, #f4f4f4 40px, #ececec 80px);
+  background-size: 24rem;
+  -webkit-animation: shine-loading-image 2s infinite ease-out;
+          animation: shine-loading-image 2s infinite ease-out;
+}
+@keyframes shine-loading-image {
+  0% {
+    background-position: 0px;
+  }
+  40%, 100% {
+    background-position: 350px;
+  }
+}
+
+.stack > * {
+  grid-area: 1 / 1;
+}

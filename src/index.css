@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind variants;
+  
+/* the hover effect of the navbar items */
+
+.nav-item:hover:after{
+    display: inherit;  
+}
+@media only screen and (min-width: 1280px) {
+    .active-nav-item:after{
+        content:'';
+        width: 15px;
+        height: 3px;
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        background-color: #ed4b45;
+    }
+}
+
+.dropdown-item:after{
+    background-color: green !important;
+}
+
+#CookieDeclaration{
+    display: none;
+}
+
+.styles-module_chatFooter__TGv0P form .styles-module_buttonSend__kXjja {
+    margin: 0 auto;
+}
+
+
+
+.typing-effect {
+    width: 82%;
+    animation: typing 5s steps(26) infinite 3s alternate, blink 1s infinite alternate  ;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 3px solid;
+    /* font-family: monospace; */
+    font-size: 1em;
+    line-height: 21px;
+    
+  }
+  
+  @keyframes typing {
+    0%{
+        width: 14px
+     }
+    80%, 100% {
+      width: 82%
+    }
+  }
+      
+  @keyframes blink {
+    50% {
+      border-color: transparent
+    }
+  }

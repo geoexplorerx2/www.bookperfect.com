@@ -1,0 +1,274 @@
+{
+   "liveas": "Vivre comme si",
+   "BOOK_PERFECT": "Réservez Parfait",
+   "TRAVEL_PERFECT": "VOYAGE PARFAIT",
+   "EXPLORE_THE_WORLD": "Explore le monde",
+   "NEW": "Nouveau",
+   "FIND_YOUR_TRIP": "Trouvez votre voyage",
+
+   "NAV_ITEMS":{
+      "TRIPDESIGNER": "Concepteur de voyage",
+      "FLIGHTS_&_MORE": "Vols et plus",
+      "HOTELS": "Hôtels",
+      "FLIGHTS_+_HOTELS":"Vols + Hôtels",
+      "ACTIVITIES": "Activities",
+      "TRANSFERS": "Transfers",
+      "PACKAGES": "Paquets",
+      "RENT_A_CAR": "Louer une voiture",
+      "MORE": "Plus",
+      "TRAVEL_GUIDE": "Guide de voyage",
+      "BLOG": "Blog"
+
+   },
+
+
+   "SEARCH_TABS" : {
+      "TRIP_DESIGNER": "Concepteur de voyage",
+      "FLIGHTS": "Vols",
+      "HOTEL": "Hôtel",
+      "ACTIVITIES": "Activities",
+      "PACKAGES": "Paquets",
+      "TRANSFERS": "Transfers",
+      "RENT_A_CAR": "Louer une voiture",
+      "FLIGHTS_+_HOTELS": "Vols + Hôtels",
+      "HOTELS": "Hôtels",
+      "FLIGHTS_&_MORE":"Vols et plus"
+
+   },
+   
+   "EXCLUSIVE_OFFERS_TABS": {
+      "FLIGHTS_&_MORE": "Vols et plus",
+      "HOLIDAY": "Vacances",
+      "BEST_OFFERS": "Meilleures offres",
+      "RECOMMENDED": "Recommandé",
+      "ROMANTIC":"Romantique",
+      "HONEYMOON":"Voyage de noces",
+      "STOPOVER":"Escale",
+      "CRUISES":"Croisières",
+      "SHOPPING":"Achats",
+      "HOTELS": "Hôtels",
+      "HOTEL": "Hôtel",
+      "FLIGHTS_+_HOTELS": "Vols + Hôtels",
+      "ACTIVITIES": "Activities",
+      "PACKAGES": "Paquets",
+      "TRANSFERS": "Transfers",
+      "RENT_A_CAR": "Louer une voiture",
+      "VIEW_ALL_OFFERS": "Voir toutes les offres"
+
+   },
+
+   "TRIP_DESIGNER_SEARCH_FORM": {
+      "START_DATE": "Date de début",
+      "SELECT_DATE": "sélectionner une date"  
+   },
+
+   "GUESTS_INPUT": {
+      "TRAVELLERS": "Voyageurs",
+      "ROOMS": "Pièces",
+      "ADULTS": "Adultes"
+
+   },
+
+   "TRIP_IDEAS":{
+      "MORE_IDEAS":"Plus d'idées",
+      "BEST_OFFERS": "Meilleures offres",
+      "ROMANTIC":"Romantique",
+      "HONEYMOON":"Voyage de noces",
+      "STOPOVER ":"Escale",
+      "STOPOVER_":"Escale",
+      "CRUISES":"Croisières",
+      "SHOPPING":"Achats",
+      "RECOMMENDED": "Recommandé",
+      "TRANSPORTS": "Les transports",
+      "DESTINATION": "Destination",
+      "NIGHTS": "Nuits",
+      "PARIS":"Paris",
+      "NEW_YORK":"New York",
+      "TOKYO":"Tokyo",
+      "LONDON":"Londres",
+      "ROME":"Rome",
+      "ISTANBUL":"Istanbul",
+      "MADRID":"Madrid",
+      "BARCELONA":"Barcelone",
+      "LISBON":"Lisbonne",
+      "MORE": "Suite",
+      "HOTELS":"Hôtels",
+      "TURKEY":"Turquie",
+      "BEACH":"Plage",
+      "ADVENTURE":"Aventure",
+      "GASTRONOMY":"Turquie",
+      "HISTORY":"Histoire",
+      "FAMILY":"Famille",
+      "WINTER":"Hiver",
+      "ALL": "Tout",
+      "HEALTH": "Santé",
+      "BEACH_HOLIDAYS": "Vacances à la plage"
+      
+   },
+
+   "TRAVEL_NEWS": {
+      "TRAVEL_NEWS": "Nouvelles de voyage",
+      "VIEW_ALL_NEWS": "Voir toutes les nouvelles"
+   },
+
+   "POPULAR_DESTINATIONS": {
+      "ALL_DESTNATIONS":"Toutes les destinations",
+      "TRAVEL_DEALS": "Offres de voyage",
+      "TRAVEL_GUIDE": "Guide de voyage",
+      "TURKEY":"Turquie",
+      "RECOMMENDED":"Recommandé",
+      "ITALY":"Italie",
+      "FRANCE":"La France",
+      "INDIA":"Inde",
+      "CANADA":"Canada",
+      "CHINA":"Chine",
+      "PARIS":"Paris",
+      "NEW_YORK":"New York",
+      "TOKYO":"Tokyo",
+      "LONDON":"Londres",
+      "ROME":"Rome",
+      "ISTANBUL":"Istanbul",
+      "MADRID":"Madrid",
+      "BARCELONA":"Barcelone",
+      "LISBON":"Lisbonne"
+   },
+   "CHEAP_FLIGHTS": {
+      "MORE_FLIGHTS": "Plus de vols",
+      "ECONOMY": "Économie",
+      "RETURN_FROM":"Formulaire de retour",
+      "TRAVEL_BETWEEN": "Voyagez entre",
+      "CHECK": "Vérifier"
+   },
+
+   "BOOK_FLIGHT_MODAL":{
+      "BOOK_YOUR_FLIGHTS_ONLINE": "Réservez vos vols en ligne",
+      "ECONOMY_RETURN_FROM":"Retour économique à partir de",
+      "DEAL_NUMBER": "Numéro de transaction",
+      "TRAVEL_BETWEEN": "Voyagez entre",
+      "FOR_THIS_DEAL":"Pour cette affaire"
+   },
+
+   "HOTELS_CARD": {
+      "EXCEPTIONAL": "Exceptionnel",
+      "RESERVE_NOW": "Réservez MAINTENANT",
+      "SINCE":"Depuis"
+   },
+
+   "TRAVEL_BLOG":{
+      "SEE_MORE_BLOGS": "Voir plus de blogs"
+   },
+
+   "FLIGHT_SEARCH_FORM": {
+      "ONE_WAY": "Sens Unique",
+      "ROUND_TRIP": "Aller-retour",
+      "MULTI_STOP": "Arrêt multiple"
+   },
+
+   "CHARACTERISTICS": {
+      "FLIGHT_IN_GOOD_HEALTH" :"Vol en marchandises sanitaires",
+      "FLEXIBLE_BOOKING" :"Réservations flexibles",
+      "ENTRY_RESTRICTIONS_BY_COUNTRY" :"Restrictions d'entrée par pays",
+      "TRUSTED_BY_TRAVELLERS" :"Approuvé par les voyageurs"
+   },
+
+   "MEMBERSHIP": {
+      "LET'S_DO_THIS": "Faisons cela",
+      "ENTER_YOUR_EMAIL_ADDRESS": "Entrez votre adresse email"
+   },
+
+   "HOTELS_SEARCH_FORM": {
+      "WHERE_TO_?": "Où aller?",
+      "CHECK_IN": "Enregistrement",
+      "CHECK_OUT": "Vérifier"
+   },
+   
+   "TRANSFERS_SEARCH_FORM":{
+      "TIME": "Temps"
+   },
+   "TRANSFER_DEALS": {
+      "TRANSFER_PRICES_FROM": "Prix de transfert de"
+   },
+
+
+   "CAR_RENTAL":{
+      "MORE_CAR_RENTAL": "Plus de location de voitures",
+      "GENERAL":"Général",
+      "FROM":"À partir de",
+      "BOOK_THIS_VEHICLE": "Réservez ce véhicule"
+   },
+
+   "PACKAGES_SEARCH_FORM": {
+      "COUNTRY":"Pays",
+      "WHEN": "Lorsque",
+      "NUMBER_OF_NIGHTS": "Nombre de nuits",
+      "THEME": "Thème"
+   },
+
+   "CAR_RENTAL_SEARCH_FORM": {
+      "PICKUP":"Le pick-up",
+      "SAME_DROP-OFF":"Même dépôt",
+      "DROPOFF":"Déposer",
+      "DRIVER_AGED_BETWEEN_30-65_?":"Conducteur âgé de 30 à 65 ans ?",
+      "TIME": "Temps"
+   },
+
+   "BUNDLE_AND_SAVE": {
+      "CAR": "Auto",
+      "FLIGHT": "Voyage en avion",
+      "HOTEL": "Hôtel",
+      "BUNDLE": "Empaqueter"
+   },
+
+
+   "TAXONOM_HEADER": {
+      "EXPLORE_THE_WORLD": "Explore le monde"
+   },
+
+   "TRAVEL_GUIDE":{
+   "TRAVEL_GUIDE": "Guide de voyage",
+   "BUNDLE_YOUR_FLIGHTS_+_STAY_TOGETHER_AND_SAVE!_PLUS_NO_ONLINE_BOOKING_FEES!":"Regroupez vos vols + restez ensemble et économisez! plus aucun frais de réservation en ligne!",
+   "NEED_HELP_PLANNING?_CHECK_OUT_OUR_TRAVEL_GUIDES":"Besoin d'aide pour planifier ? Consultez nos guides de voyage",
+   "OVERVIEW":"Aperçu",
+   "THINGS_TO_KNOW":"Choses à savoir",
+   "BEST_TIME_TO_VISIT": "Meilleur moment pour visiter",
+   "GETTING_AROUND":"Se déplacer",
+   "WHERE_TO_STAY": "Où rester",
+   "BEST_HOTELS":"Meilleurs hôtels",
+   "WHAT_TO_EAT": "Ce qu'il faut manger",
+   "BEST_RESTAURANTS":"Meilleurs restaurants",
+   "TOP_ATTRACTIONS_":"Meilleures attractions",
+   "SHOPPING":"Achats",
+   "LET'S_LOOK_AT_THE":" Regardons le",
+   "TRAVEL_DEALS!":"Offres de voyage!",
+   "LET'S_GO":"Allons-y!",
+   "BEST_RESTAURANTS_": "Meilleurs restaurants"
+   },
+
+   "GUIDE_CONTENT_COMP": {
+      "MORE_ISTANBUL": "Plus d'Istanbul",
+      "FOR_LESS": "Pour moins",
+      "VIEW_ATTRACTIONS": "Voir les attractions",
+      "BUY_&_SAVE":"Achetez et économisez"
+   },
+
+   "FROM":"À partir de",
+   "TO": "Pour",
+   "START_DATE": "Date de début",
+   "RETURN_DATE": "Date de retour",
+   "DATE": "Date",
+   "HOTEL":"HÔTEL",
+   "MORE": "plus",
+   "MORE_INFO": "Plus d'informations",
+   "NATIONALITY": "Nationalité",
+   "BY CLICKING 'SEARCH', I AGREE TO THE ?":"En cliquant sur 'Rechercher', j'accepte les ?",
+   "WHERE": "Où",
+   "SELECT_DATE":"Sélectionner une date",
+   "VALID_TILL": "Valable jusqu'au",
+   "REVIEWS":"Commentaires",
+   "GENERAL": "Général",
+   "VIEW_OPTIONS": "VOIR LES OPTIONS",
+   "SEE_ALL_TRANSFERS": "Voir tous les transferts",
+   "BEST_BRANDS_BEST_PRICES_!": "Meilleures marques, Meilleurs prix !",
+   "EXPLORE_MORE": "Explore More",
+   "SEE_ALL_DESTINATIONS":"Voir toutes les destinations"
+}
